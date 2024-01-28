@@ -1,4 +1,4 @@
-# FSP2
+# Client-Server
 Client-server application.
 
 Server:
